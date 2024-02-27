@@ -1,1 +1,11 @@
 = dotfiles
+
+My configuration for:
+
+* bash
+* vim
+* tmux
+
+== Setup Notes
+
+
