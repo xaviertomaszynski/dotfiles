@@ -1,6 +1,10 @@
-= dotfiles
+= Dotfiles
 
-My configuration for:
+== Introduction
+
+My configuration for my _dotfiles_ are 100% inspired from https://github.com/mischavandenburg/dotfiles[Mischa Van Den Burg] dotfile Github project.
+
+== Configuration Files
 
 * bash
 * vim
